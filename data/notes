@@ -1,0 +1,12 @@
+Databases - Mysql | Ubuntu
+https://ubuntu.com/server/docs/databases-mysql
+
+Python MySQL
+https://www.w3schools.com/python/python_mysql_getstarted.asp
+
+Initial password settings
+https://phoenixnap.com/kb/access-denied-for-user-root-localhost
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'insert_password';
+
+MySQL Workbench and others
+https://dev.mysql.com/downloads/
